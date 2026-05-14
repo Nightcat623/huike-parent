@@ -6,6 +6,7 @@
 
 **项目宠物**
 =========================
+![Stone Badge](https://stone.professorlee.work/api/stone/Nightcat623/huike-parent)
 
 **在线演示**
 =========================
