@@ -24,7 +24,7 @@ target/
 *.iws
 *.iml
 *.ipr
-application-druid.yml
+/application-druid.yml
 
 ### NetBeans ###
 nbproject/private/
